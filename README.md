@@ -9,7 +9,7 @@
 
 ---
 
-Let me know if there's anything else you'd like to modify!
+
 <!---
 Binderiya7/Binderiya7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
